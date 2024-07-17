@@ -1,7 +1,6 @@
-## Hi there 👋
-I'm ![Animated Name](https://raw.githubusercontent.com/Prince-Si/Prince-Si/main/animated-name.svg)
-
-
+## Hi there 👋<br>
+## I'm
+ ![Animated Name](https://raw.githubusercontent.com/Prince-Si/Prince-Si/main/animated-name.svg)
 # 💫 About Me:
 🔭 I’m a student of IT Engg. <br>👯 I’m looking to collaborate on various development projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning software development.
 
