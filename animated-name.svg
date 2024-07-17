@@ -1,18 +1,22 @@
 <svg width="500" height="100" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .letter {
-      opacity: 0;
-      animation: floatDown 1s ease-in-out forwards;
-    }
     @keyframes floatDown {
       0% {
         opacity: 0;
-        transform: translateY(-20px);
+        transform: translateY(-30px);
       }
-      100% {
+      50% {
         opacity: 1;
         transform: translateY(0);
       }
+      100% {
+        opacity: 0;
+        transform: translateY(30px);
+      }
+    }
+    .letter {
+      opacity: 0;
+      animation: floatDown 2s ease-in-out infinite;
     }
     .letter1 { animation-delay: 0s; }
     .letter2 { animation-delay: 0.1s; }
@@ -24,6 +28,8 @@
     .letter8 { animation-delay: 0.7s; }
     .letter9 { animation-delay: 0.8s; }
     .letter10 { animation-delay: 0.9s; }
+    .letter11 { animation-delay: 1.0s; }
+    .letter12 { animation-delay: 1.1s; }
   </style>
   <text x="10" y="40" font-family="Arial" font-size="40" fill="black">
     <tspan class="letter letter1">P</tspan>
