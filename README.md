@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Animated Name](https://raw.githubusercontent.com/Prince-Si/Prince-Si/main/animated-name.svg)
+I'm ![Animated Name](https://raw.githubusercontent.com/Prince-Si/Prince-Si/main/animated-name.svg)
 
 
 # 💫 About Me:
