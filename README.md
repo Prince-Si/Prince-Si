@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Animated Name](https://raw.githubusercontent.com/username/repository-name/main/animated-name.svg)
 
 # 💫 About Me:
 🔭 I’m a student of IT Engg. <br>👯 I’m looking to collaborate on various development projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning software development.
