@@ -21,18 +21,18 @@
     }
   </style>
 
-  <!-- P R I N C E -->
-  <text class="letter" x="50"  y="80" style="animation-delay: 0s">P</text>
-  <text class="letter" x="120" y="80" style="animation-delay: 0.15s">R</text>
-  <text class="letter" x="200" y="80" style="animation-delay: 0.30s">I</text>
-  <text class="letter" x="260" y="80" style="animation-delay: 0.45s">N</text>
-  <text class="letter" x="350" y="80" style="animation-delay: 0.60s">C</text>
-  <text class="letter" x="430" y="80" style="animation-delay: 0.75s">E</text>
+  <g text-anchor="middle" transform="translate(600,80)">
+    <text class="letter" x="-330" style="animation-delay: 0s">P</text>
+    <text class="letter" x="-260" style="animation-delay: 0.15s">R</text>
+    <text class="letter" x="-180" style="animation-delay: 0.30s">I</text>
+    <text class="letter" x="-120" style="animation-delay: 0.45s">N</text>
+    <text class="letter" x="-30"  style="animation-delay: 0.60s">C</text>
+    <text class="letter" x="50"   style="animation-delay: 0.75s">E</text>
 
-  <!-- S I N G H -->
-  <text class="letter" x="550" y="80" style="animation-delay: 1.00s">S</text>
-  <text class="letter" x="620" y="80" style="animation-delay: 1.15s">I</text>
-  <text class="letter" x="680" y="80" style="animation-delay: 1.30s">N</text>
-  <text class="letter" x="760" y="80" style="animation-delay: 1.45s">G</text>
-  <text class="letter" x="840" y="80" style="animation-delay: 1.60s">H</text>
+    <text class="letter" x="170"  style="animation-delay: 1.00s">S</text>
+    <text class="letter" x="240"  style="animation-delay: 1.15s">I</text>
+    <text class="letter" x="300"  style="animation-delay: 1.30s">N</text>
+    <text class="letter" x="380"  style="animation-delay: 1.45s">G</text>
+    <text class="letter" x="460"  style="animation-delay: 1.60s">H</text>
+  </g>
 </svg>
