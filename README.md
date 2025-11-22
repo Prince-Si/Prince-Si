@@ -1,6 +1,6 @@
 <div align="center">
  
-![Animated Name](https://raw.githubusercontent.com/Prince-Si/Prince-Si/main/animated-name.svg?v=2)
+![Animated Name](https://raw.githubusercontent.com/Prince-Si/Prince-Si/main/animated-name.svg?v=3)
 
 ### Software Engineer | Developer | AI & ML Enthusiast
 
