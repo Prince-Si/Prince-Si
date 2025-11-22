@@ -1,5 +1,10 @@
-## 👋 Hi, I'm ![Animated Name](https://raw.githubusercontent.com/Prince-Si/Prince-Si/main/animated-name.svg)
+<div align="center">
+ 
+![Animated Name](https://raw.githubusercontent.com/Prince-Si/Prince-Si/main/animated-name.svg?v=2)
+
 ### Software Engineer | Developer | AI & ML Enthusiast
+
+</div>
 
 Welcome to my GitHub profile!  
 I’m passionate about building impactful software, exploring modern technologies, and continuously improving as an Engineer.
