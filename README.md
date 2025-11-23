@@ -92,9 +92,11 @@ I’m passionate about building impactful software, exploring modern technologie
 ## 🚀 Featured Projects
 <div align="center">
 
-  <a href="https://github.com/Prince-Si/SENTIANA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prince-Si&repo=SENTIANA&theme=radical&border_color=00ffc8&border_radius=12" />
-  </a>
+ <a href="https://github.com/Prince-Si/Go-Green-Inventory-Project">
+  <!--<img src="https://via.placeholder.com/1200x300?text=SENTIANA+Project" />-->
+  Go-Green-Inventory-Project
+</a>
+
 <!--
   <a href="https://github.com/Prince-Si/Blockchain-Certificate-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prince-Si&repo=Blockchain-Certificate-System&theme=radical&border_color=00ffc8&border_radius=12" />
