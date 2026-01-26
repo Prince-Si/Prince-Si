@@ -92,38 +92,73 @@ I’m passionate about building impactful software, exploring modern technologie
 ## 🚀 Featured Projects
 <div align="center">
 
- <div>
-  <h1>My Portfolio Web App</h1>
-  <a href="https://princesingh.co.in">
-   Visit My Portfolio Web Application
-    <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prince-Si&repo=Blockchain-Certificate-System&theme=radical&border_color=00ffc8&border_radius=12" /> -->
-  </a>
+<h1>🚀 Featured Projects</h1>
+
+<!-- PROJECT GRID -->
+<table>
+<tr>
+
+<!-- Portfolio -->
+<td width="33%" valign="top">
+  <div style="border:1px solid #30363d;border-radius:14px;padding:16px;">
+    <h3>🌐 Portfolio Web App</h3>
+    <p><b>Personal brand & developer showcase</b></p>
+    <p>
+      A modern portfolio highlighting my skills, projects, and experience
+      with clean UI and responsive design.
+    </p>
+    <a href="https://princesingh.co.in"><b>🔗 Visit Website</b></a>
   </div>
+</td>
 
- <a href="https://athlyx.princesingh.co.in">
-  <!--<img src="https://via.placeholder.com/1200x300?text=SENTIANA+Project" />-->
-  <h1>ATHLYX</h1>
-  <h2>Visit for ATHLYX Demo (under development) </h2>
-  A fitness social media (Under Development)
-</a>
+<!-- ATHLYX -->
+<td width="33%" valign="top">
+  <div style="border:1px solid #30363d;border-radius:14px;padding:16px;">
+    <h3>💪 ATHLYX</h3>
+    <p><b>Fitness social media platform</b></p>
+    <p>
+      A social fitness app for tracking workouts, sharing progress,
+      and building a health-focused community.
+    </p>
+    <a href="https://athlyx.princesingh.co.in"><b>🔗 Live Demo</b></a>
+    <br/>
+    <sub>🚧 Under Development</sub>
+  </div>
+</td>
 
-<a href="https://todo-frontend.princesingh.co.in">
-  <!--<img src="https://via.placeholder.com/1200x300?text=SENTIANA+Project" />-->
-  <h1>Simple Todo Web Application </h1>
-</a>
+<!-- Todo App -->
+<td width="33%" valign="top">
+  <div style="border:1px solid #30363d;border-radius:14px;padding:16px;">
+    <h3>📝 Todo Web App</h3>
+    <p><b>Minimal productivity tool</b></p>
+    <p>
+      A simple and fast todo application with a clean interface
+      for managing daily tasks efficiently.
+    </p>
+    <a href="https://todo-frontend.princesingh.co.in"><b>🔗 Try It</b></a>
+  </div>
+</td>
 
-  <a href="https://github.com/Prince-Si/Go-Green-Inventory-Project">
-  <!--<img src="https://via.placeholder.com/1200x300?text=SENTIANA+Project" />-->
-  Go-Green-Inventory-Project
-</a>
-<!--
-  <a href="https://github.com/Prince-Si/Smart-Energy-Monitor-IoT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prince-Si&repo=Smart-Energy-Monitor-IoT&theme=radical&border_color=00ffc8&border_radius=12" />
-  </a>
---
-  <a href="https://github.com/Prince-Si/Teacher-Assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prince-Si&repo=Teacher-Assistant&theme=radical&border_color=00ffc8&border_radius=12" />
-  </a>
--->
+</tr>
+
+<tr>
+
+<!-- Go Green Inventory -->
+<td width="33%" valign="top">
+  <div style="border:1px solid #30363d;border-radius:14px;padding:16px;">
+    <h3>🌱 Go-Green Inventory</h3>
+    <p><b>Inventory management system</b></p>
+    <p>
+      An inventory system focused on sustainable resource tracking
+      and efficient stock management.
+    </p>
+    <a href="https://github.com/Prince-Si/Go-Green-Inventory-Project">
+      <b>🔗 GitHub Repo</b>
+    </a>
+  </div>
+</td>
+
+</tr>
+</table>
+
 </div>
-
