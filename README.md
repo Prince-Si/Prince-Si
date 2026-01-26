@@ -107,7 +107,7 @@ I’m passionate about building impactful software, exploring modern technologie
       A modern portfolio highlighting my skills, projects, and experience
       with clean UI and responsive design.
     </p>
-    <a href="https://princesingh.co.in"><b>🔗 Visit Website</b></a>
+    <a href="https://princesingh.co.in" target="_blank" rel="noopener noreferrer"><b>🔗 Visit Website</b></a>
   </div>
 </td>
 
@@ -120,7 +120,7 @@ I’m passionate about building impactful software, exploring modern technologie
       A social fitness app for tracking workouts, sharing progress,
       and building a health-focused community.
     </p>
-    <a href="https://athlyx.princesingh.co.in"><b>🔗 Live Demo</b></a>
+    <a href="https://athlyx.princesingh.co.in" target="_blank" rel="noopener noreferrer"><b>🔗 Live Demo</b></a>
     <br/>
     <sub>🚧 Under Development</sub>
   </div>
@@ -135,7 +135,7 @@ I’m passionate about building impactful software, exploring modern technologie
       A simple and fast todo application with a clean interface
       for managing daily tasks efficiently.
     </p>
-    <a href="https://todo-frontend.princesingh.co.in"><b>🔗 Try It</b></a>
+    <a href="https://todo-frontend.princesingh.co.in" target="_blank" rel="noopener noreferrer"><b>🔗 Try It</b></a>
   </div>
 </td>
 
@@ -152,7 +152,7 @@ I’m passionate about building impactful software, exploring modern technologie
       An inventory system focused on sustainable resource tracking
       and efficient stock management.
     </p>
-    <a href="https://github.com/Prince-Si/Go-Green-Inventory-Project">
+    <a href="https://github.com/Prince-Si/Go-Green-Inventory-Project" target="_blank" rel="noopener noreferrer">
       <b>🔗 GitHub Repo</b>
     </a>
   </div>
