@@ -92,10 +92,13 @@ I’m passionate about building impactful software, exploring modern technologie
 ## 🚀 Featured Projects
 <div align="center">
 
+ <div>
+  <h1>My Portfolio Web App</h1>
   <a href="https://princesingh.co.in">
-   <h1>Visit My Portfolio Web Application</h1>
+   Visit My Portfolio Web Application
     <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prince-Si&repo=Blockchain-Certificate-System&theme=radical&border_color=00ffc8&border_radius=12" /> -->
   </a>
+  </div>
 
  <a href="https://athlyx.princesingh.co.in">
   <!--<img src="https://via.placeholder.com/1200x300?text=SENTIANA+Project" />-->
