@@ -2,7 +2,7 @@
  
 ![Animated Name](https://raw.githubusercontent.com/Prince-Si/Prince-Si/main/animated-name.svg?v=3)
 
-### Software Engineer | Developer | AI & ML Enthusiast
+### Software Engineer | Java & Full-Stack Developer | Exploring AI-driven Systems
 
 </div>
 
@@ -13,10 +13,10 @@ I’m passionate about building impactful software, exploring modern technologie
 
 ## 💫 About Me
 - 🎓 Software Engineer 
-- 💻 Full-stack development, Interests in AI & ML, Blockchain Systems  
-- 🤝 Open to collaborating on web, backend, and innovative tech projects  
-- 🌱 Currently learning modern software development and system design  
-- 🚀 Always excited to build, break, learn, and repeat!
+- 💻 Java-centric full-stack developer (Spring Boot, React, Django)
+- 🧠 Experience building sentiment analysis & blockchain-based verification systems
+- 🤝 Open to backend, full-stack, and system-focused projects
+- 🌱 Currently strengthening DSA, system design, and production-grade backend skills
 
 ---
 
@@ -24,6 +24,7 @@ I’m passionate about building impactful software, exploring modern technologie
 <div align="center"> 
 
 ### **Languages & Markup**
+> Primary focus: **Java, Spring Boot, React, SQL | Backend & Full-Stack Systems**
 
 ![Java](https://img.shields.io/badge/Java-%23f89820.svg?style=for-the-badge&logo=oracle&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white) 
@@ -31,7 +32,6 @@ I’m passionate about building impactful software, exploring modern technologie
 ![HTML5](https://img.shields.io/badge/HTML5-%23FF6F00.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%230072B9.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![PLSQL](https://img.shields.io/badge/PL%2FSQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 
 
@@ -41,7 +41,6 @@ I’m passionate about building impactful software, exploring modern technologie
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245.svg?style=flat&logo=react-router&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 
 
 ### **Databases**
@@ -57,7 +56,7 @@ I’m passionate about building impactful software, exploring modern technologie
 
 ![](https://github-readme-stats.vercel.app/api?username=Prince-Si&theme=ocean_dark&hide_border=true&show_icons=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prince-Si&theme=ocean_dark&hide_border=true)
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=Prince-Si&theme=ocean_dark&hide_border=true)-->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Si&theme=ocean_dark&hide_border=true&layout=compact)
 
@@ -117,9 +116,10 @@ I’m passionate about building impactful software, exploring modern technologie
     <h3>💪 ATHLYX</h3>
     <p><b>Fitness social media platform</b></p>
     <p>
-      A social fitness app for tracking workouts, sharing progress,
-      and building a health-focused community.
-    </p>
+  <b>Tech:</b> React, Spring Boot, MySQL<br/>
+  A social fitness app for tracking workouts, sharing progress,
+  and building a health-focused community.
+</p>
     <a href="https://athlyx.princesingh.co.in" target="_blank" rel="noopener noreferrer"><b>🔗 Live Demo</b></a>
     <br/>
     <sub>🚧 Under Development</sub>
