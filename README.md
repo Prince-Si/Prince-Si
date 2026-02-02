@@ -52,13 +52,21 @@ I’m passionate about building impactful software, exploring modern technologie
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Prince-Si&theme=ocean_dark&hide_border=true&show_icons=true)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Prince-Si&show_icons=true&theme=ocean_dark&hide_border=true"
+  height="165"
+/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Si&theme=ocean_dark&hide_border=true&layout=compact)
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=Prince-Si&theme=ocean_dark&hide_border=true)-->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Si&layout=compact&theme=ocean_dark&hide_border=true"
+  height="165"
+/>
+
 </div>
+
 
 ---
 
