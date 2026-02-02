@@ -54,18 +54,13 @@ I’m passionate about building impactful software, exploring modern technologie
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img
   src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prince-Si&show_icons=true&theme=ocean_dark&hide_border=true"
 />
-
 <img
   src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Prince-Si&layout=compact&theme=ocean_dark&hide_border=true"
 />
-
 </div>
-
-
 
 ---
 
