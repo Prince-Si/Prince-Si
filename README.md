@@ -59,7 +59,7 @@ I’m passionate about building impactful software, exploring modern technologie
  
 <img src="https://github-readme-stats-deployed-lyart.vercel.app/api?username=Prince-Si&theme=ocean_dark&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&cache_seconds=86400" />
 
-<img src="https://github-readme-stats-deployed-lyart.vercel.app/api/top-langs/?username=Prince-Si&layout=compact&theme=ocean_dark&exclude_repo=Blog-App&hide_border=true&cache_seconds=86400" />
+<img src="https://github-readme-stats-deployed-lyart.vercel.app/api/top-langs/?username=Prince-Si&layout=compact&theme=ocean_dark&hide_border=true&cache_seconds=86400" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Si&theme=react-dark&hide_border=true&cache_seconds=86400" />
 
